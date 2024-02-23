@@ -1,0 +1,205 @@
+body {
+    overflow: hidden;
+}
+.main_name {
+	font-size: 28px;
+	position: absolute;
+	left: 1%;
+	top: -3.2%;
+	color: white;
+}
+
+.poisk {
+	position: absolute;
+	left: 76%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+.jointo {
+	position: absolute;
+	left: 83%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+.entry {
+	position: absolute;
+	left: 93%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+#header {
+	width: 1410px;     
+  	height: 60px;   
+  	background-color: #4d7098;
+  	margin: -18px auto 0 auto;
+  	 margin-left: -1rem;
+  	/*margin-bottom: 10px;*/ 
+}
+
+.main_meny {
+	line-height: 1.5;
+	color: black;
+	position: absolute;
+	left: 1%;
+}
+
+a {
+	text-decoration: none;
+}
+
+.a_div_main_meny {
+	color: #36587b;
+}
+
+.line-in-middle {
+    width:300px;
+    height:800px;
+	  background: linear-gradient(to right, 
+	                              transparent 0%, 
+	                              transparent calc(50% - 0.5px), 
+	                              black calc(50% - 0.2px), 
+	                              black calc(50% + 0.2px), 
+	                              transparent calc(50% + 0.81px), 
+	                              transparent 50%); 
+}
+
+.start_text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+
+.photo_user {
+	position: absolute;
+	top: 17%;
+	left: 13%;
+}
+
+.name_user {
+	position: absolute;
+	top: 5%;
+	left: 50%;
+	font-size: 23px;
+
+}
+
+.horizontal-line {
+	position: absolute;
+	top: 13%;
+	left: 11.8%;
+	width: 90%;
+	align:right;
+
+}
+
+.write_sms {
+	position: absolute;
+	left: 13.5%;
+	top: 43.5%;
+}
+/*<!-- ################################################################ -->*/
+/*#message {
+	position: absolute;
+	top: 45%;
+	left: 13.5%;
+}
+#join_plus {
+	position: absolute;
+	left: 13.5%;
+	top: 52%;
+}
+
+#join_minus{
+	position: absolute;
+	left: 21%;
+	top: 52%;
+}*/
+/*<!-- ################################################################ -->*/
+.friends_name_profile {
+	position: absolute;
+	top: 50%;
+	left:13.5%;
+}
+
+.friends_name_join {
+	position: absolute;
+	top: 65%;
+	left: 13.5%;
+}
+
+.name_profile {
+	position: absolute;
+	top: 16.5%;
+	left: 29%;
+	font-size: 18px;
+	color: #369; 
+}
+
+.horizontal-line_under_name_profile {
+	position: absolute;
+	top: 70%;
+	left: -6%;
+	width: 790%;
+	align:right;
+}
+
+.famile_teraphy {
+	position: absolute;
+	top:20.5%;
+	left: 29%;
+	color: #7B726F;
+}
+.info_profile_ru {
+	position: absolute;
+	top: 24.5%;
+	left: 29%;
+	color: #7B726F;
+}
+
+.dop_info_profile {
+	position: absolute;
+	top: 29%;
+	left: 41.3%;
+	color: #369; 
+}
+
+.photo_profile_user {
+	position: absolute;
+	top: 37%;
+	left: 29.3%;
+	color: #369; 
+	background-color: #e3e6ed;
+	width: 1000px;
+	height: 30px
+}
+
+.photo_person {
+	position: absolute;
+	top: 37%;
+	left: 40%;
+}
+
+.block_profile_user {
+	position: absolute;
+	top: 60%;
+	left: 29.3%;
+	color: #369; 
+	background-color: #e3e6ed;
+	width: 1000px;
+	height: 30px
+}
+
+.block_person {
+	position: absolute;
+	top: 37%;
+	left: 42.5%;
+}

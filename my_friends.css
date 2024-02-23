@@ -1,0 +1,243 @@
+/*body {
+    overflow: hidden;
+}*/
+.main_name {
+  font-size: 28px;
+  position: fixed;
+  left: 1%;
+  top: -3.2%;
+  color: white;
+}
+
+.poisk {
+  position: fixed;
+  left: 76%;
+  top: 2%;
+  font-size: 20px;
+  /*text-decoration: none;*/
+  color: white;
+}
+
+.jointo {
+  position: fixed;
+  left: 83%;
+  top: 2%;
+  font-size: 20px;
+  /*text-decoration: none;*/
+  color: white;
+}
+
+.entry {
+  position: fixed;
+  left: 93%;
+  top: 2%;
+  font-size: 20px;
+  /*text-decoration: none;*/
+  color: white;
+}
+
+#header {
+  width: 1380px;     
+  height: 60px;   
+  background-color: #4d7098;
+  margin: -18px auto 0 auto;
+  margin-left: -1rem;
+  position: fixed;
+    /*margin-bottom: 10px;*/ 
+}
+
+.main_meny {
+  line-height: 1.5;
+  color: black;
+  position: fixed;
+  left: 1%;
+  top: 8%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.a_div_main_meny {
+  color: #36587b;
+}
+
+.line-in-middle {
+    width:300px;
+    height:2000px;
+    background: linear-gradient(to right, 
+                                transparent 0%, 
+                                transparent calc(50% - 0.5px), 
+                                black calc(50% - 0.2px), 
+                                black calc(50% + 0.2px), 
+                                transparent calc(50% + 0.81px), 
+                                transparent 50%); 
+}
+
+.horizontal-line {
+  position: fixed;
+  top: 13%;
+  left: 11.8%;
+  width: 90%;
+  align:right;
+
+}
+
+.name_point {
+  position: fixed;
+  top: 5%;
+  left: 50%;
+  font-size: 23px;
+
+}
+
+/*#####################################################################################################################*/
+.photo_friends_1 {
+  position: absolute;
+  top: 19.5%;
+  left: 15%;
+}
+
+.name_friend_1 {
+  position: absolute;
+  top: 20%;
+  left:25%;
+  text-decoration-line: underline;
+  text-decoration-skip-ink: none;
+}
+/**/
+.profile_open_1 {
+  position: absolute;
+  top: 22%;
+  left: 25%;
+  color: #7B726F;
+}
+
+/**/
+.profile_status_1 {
+  position: absolute;
+  top: 26%;
+  left: 25%;
+  color: #7B726F;
+}
+
+.a_for_friend {
+  color: #36587b;
+}
+
+.horixont_line_under_friend_1 {
+  position: absolute;
+  top: 40%;
+  left: 11.8%;
+  width: 90%;
+  align:right;
+
+}
+
+.big_info_friend_1 {
+  position: absolute;
+  top: 24%;
+  left: 60%;
+  color: #36587b; 
+}
+
+/*####################################################################################################################*/
+.photo_friends_2 {
+  position: absolute;
+  top: 47%;
+  left: 15%;
+}
+
+.name_friend_2 {
+  position: absolute;
+  top: 47%;
+  left:25%;
+  text-decoration-line: underline;
+  text-decoration-skip-ink: none;
+}
+/**/
+.profile_open_2 {
+  position: absolute;
+  top: 49%;
+  left: 25%;
+  color: #7B726F;
+}
+
+/**/
+.profile_status_2 {
+  position: absolute;
+  top: 53%;
+  left: 25%;
+  color: #7B726F;
+}
+
+.a_for_friend {
+  color: #36587b;
+}
+
+.horixont_line_under_friend_2 {
+  position: absolute;
+  top: 68%;
+  left: 11.8%;
+  width: 90%;
+  align:right;
+
+}
+
+.big_info_friend_2 {
+  position: absolute;
+  top: 51%;
+  left: 60%;
+  color: #36587b; 
+}
+
+
+/*#####################################################################################################################*/
+.photo_friends_3 {
+  position: absolute;
+  top: 74%;
+  left: 15%;
+}
+
+.name_friend_3 {
+  position: absolute;
+  top: 74%;
+  left:25%;
+  text-decoration-line: underline;
+  text-decoration-skip-ink: none;
+}
+
+.profile_open_3 {
+  position: absolute;
+  top: 76%;
+  left: 25%;
+  color: #7B726F;
+}
+
+
+.profile_status_3 {
+  position: absolute;
+  top: 80%;
+  left: 25%;
+  color: #7B726F;
+}
+
+.a_for_friend {
+  color: #36587b;
+}
+
+.horixont_line_under_friend_3 {
+  position: absolute;
+  top: 95%;
+  left: 11.8%;
+  width: 90%;
+  align:right;
+
+}
+
+.big_info_friend_3 {
+  position: absolute;
+  top: 78%;
+  left: 60%;
+  color: #36587b; 
+}
