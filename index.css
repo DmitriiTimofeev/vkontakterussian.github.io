@@ -1,0 +1,158 @@
+body {
+    overflow: hidden;
+}
+.main_name {
+	font-size: 28px;
+	position: absolute;
+	left: 1%;
+	top: -3.2%;
+	color: white;
+}
+
+.poisk {
+	position: absolute;
+	left: 76%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+.jointo {
+	position: absolute;
+	left: 83%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+.entry {
+	position: absolute;
+	left: 93%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+#header {
+	width: 1380px;     
+  	height: 60px;   
+  	background-color: #4d7098;
+  	margin: -18px auto 0 auto;
+  	 margin-left: -1rem;
+  	/*margin-bottom: 10px;*/ 
+}
+
+.main_meny {
+	line-height: 1.5;
+	color: black;
+	position: absolute;
+	left: 1%;
+}
+
+a {
+	text-decoration: none;
+}
+
+.a_div_main_meny {
+	color: #36587b;
+}
+
+.line-in-middle {
+    width:300px;
+    height:560px;
+	  background: linear-gradient(to right, 
+	                              transparent 0%, 
+	                              transparent calc(50% - 0.5px), 
+	                              black calc(50% - 0.2px), 
+	                              black calc(50% + 0.2px), 
+	                              transparent calc(50% + 0.81px), 
+	                              transparent 50%); 
+}
+
+.start_text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+body {
+    overflow: hidden;
+}
+.main_name {
+	font-size: 28px;
+	position: absolute;
+	left: 1%;
+	top: -3.2%;
+	color: white;
+}
+
+.poisk {
+	position: absolute;
+	left: 76%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+.jointo {
+	position: absolute;
+	left: 83%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+.entry {
+	position: absolute;
+	left: 93%;
+	top: 2%;
+	font-size: 20px;
+	/*text-decoration: none;*/
+	color: white;
+}
+
+#header {
+	width: 1380px;     
+  	height: 60px;   
+  	background-color: #4d7098;
+  	margin: -18px auto 0 auto;
+  	 margin-left: -1rem;
+  	/*margin-bottom: 10px;*/ 
+}
+
+.main_meny {
+	line-height: 1.5;
+	color: black;
+	position: absolute;
+	left: 1%;
+}
+
+a {
+	text-decoration: none;
+}
+
+.a_div_main_meny {
+	color: #36587b;
+}
+
+.line-in-middle {
+    width:300px;
+    height:560px;
+	  background: linear-gradient(to right, 
+	                              transparent 0%, 
+	                              transparent calc(50% - 0.5px), 
+	                              black calc(50% - 0.2px), 
+	                              black calc(50% + 0.2px), 
+	                              transparent calc(50% + 0.81px), 
+	                              transparent 50%); 
+}
+
+.start_text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
